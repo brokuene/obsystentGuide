@@ -14,6 +14,7 @@ For every command there are many synonims supported so you don't have to say exa
 ## Booking
 First you need find free room. Say: *Wyszukaj wolną salkę na 5 minut*. Of coure you can give any duration like *pół godziny*, *godzinę*, *2 godziny*, *3 minuty*.
 Then application will show you free rooms.
+
 ![Alt text](img/booking1.png?raw=true "Title")
 
 After that you can say *Zarezerwój pokój Hotel* or *Zarezerwój pokój cztery trzy siedem* and Obsystent will create "Ad hoc" meeting in this room as you would manually do it in Outlook. Sit down and feel comfortable, you have reservation now.

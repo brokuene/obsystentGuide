@@ -17,7 +17,7 @@ Then application will show you free rooms.
 
 ![Alt text](img/booking1.png?raw=true "Title")
 
-After that you can say *Zarezerwój pokój Hotel* or *Zarezerwój pokój cztery trzy siedem* and Obsystent will create "Ad hoc" meeting in this room as you would manually do it in Outlook. Sit down and feel comfortable, you have reservation now.
+After that you can say *Zarezerwój pokój Hotel* or *Zarezerwój pokój cztery trzydzieści siedem* and Obsystent will create "Ad hoc" meeting in this room as you would manually do it in Outlook. Sit down and feel comfortable, you have reservation now.
 
 ## SCC
 You just need say: *Zaraportuj 3 piętra*. Of course you can give any number.

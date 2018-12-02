@@ -1,4 +1,4 @@
-# Guide for obsystent
+# Guide for Obsystent
 This document consists of two main parts:
 1. Guide for feature usage - how to use particular feature
 2. Configuration of Obsystent - before first use you many need to set up Obsystent.

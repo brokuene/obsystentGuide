@@ -8,8 +8,9 @@ This document consists of two main parts:
 To use any of the feature you need to press microphone icon on right bottom and say a *voice command*.
 That's it.
 
-
 For every command there are many synonims supported so you don't have to say exactly the same phrase as described in this guide. To see full example list of possible valid commands visit this [link](https://gist.github.com/brokuene/844a9c34cee97552e2fc5545e30350d0).
+
+**Your mobile phone needs access to Internet and be in Ojbectivity internal network - simply connect to any WiFi network in the office (objguest is also ok) or you can use Cisco - AnyConnect VPN app for Android to use outside office.**
 
 ## Booking
 First you need find free room. Say: *Wyszukaj wolną salkę na 5 minut*. Of coure you can give any duration like *pół godziny*, *godzinę*, *2 godziny*, *3 minuty*.
